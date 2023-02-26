@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../earthverse-app-bsc"
+    }
+  ],
+  "settings": {
+    "slither.solcPath": "",
+    "slither.hiddenDetectors": []
+  }
+}
